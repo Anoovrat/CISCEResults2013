@@ -20,4 +20,10 @@ All the results have already been fetched and can be found at @./ICSEResults13/D
 
 h2. Pre-fetched Compilation of All Results
 
-All the pre-fetched results can be found at @./ICSEResults13/AllData/@ or @./ISCEResults13/AllData/@. The data is found in 3 files - a raw csv file, a comprehensive refined xlsx file and a csv file with incomplete results. @./ICSEResults13/AllData/AllCompleteResults.xlsx@
+All the pre-fetched results can be found at @./ICSEResults13/AllData/AllICSEResults2013.xlsx@ or @./ISCResults13/AllData/AllISCResults2013.xlsx@. A complete list of data files are:
+ *  @./ICSEResults13/AllData/AllICSEResults2013.xlsx@ - All formatted ICSE data for all students with Overall Average, Best of 5, and English + Best of 4
+ *  @./ISCResults13/AllData/AllISCResults2013.xlsx@ - All formatted ISC data for all students with Overall Average, Best of 4, and English + Best of 4
+ *  @./ICSEResults13/AllData/AllICSEResults2013.csv@ - All ICSE data in a comma separated value file with all the data for all students with an Overall Average as well.
+ *  @./ISCResults13/AllData/AllISCResults2013.csv@ - All ISC data in a comma separated value file with all the data for all students with an Overall Average as well.
+ *  @./ICSEResults13/AllData/IncompleteICSEResults2013.csv@ - ICSE data for all students who did not complete all their ICSE subjects.
+ *  @./ISCResults13/AllData/IncompleteISCResults2013.csv@ - ISC data for all students who did not complete all their ISC subjects.
