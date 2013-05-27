@@ -2,7 +2,7 @@
 # Instructions to run
 # run this script with argument equal to your School Code
 #
-# Example: ./getICSEforSchool 4674
+# Example: ./getICSEforSchool 4670
 #
 # Minimum Lower Limit = 4001
 # Maximum Upper Limit = 5568
