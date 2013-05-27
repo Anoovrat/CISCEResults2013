@@ -2,7 +2,7 @@
 # Instructions to run
 # run this script with argument equal to your School Code
 #
-# Example: ./getISCforSchool 9282
+# Example: ./getISCforSchool 9280
 #
 # Minimum Lower Limit = 9001
 # Maximum Upper Limit = 9793
