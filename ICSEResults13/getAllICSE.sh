@@ -1,7 +1,7 @@
 #!/bin/bash
 # Instructions to run
 #
-# ./getAllICSE.sh 4674 4700
+# ./getAllICSE.sh 4670 4700
 #
 # This fetches all the results between the first and second argument
 #
