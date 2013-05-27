@@ -1,7 +1,7 @@
 #!/bin/bash
 # Instructions to run
 #
-# ./getAllISC.sh 9282 9300
+# ./getAllISC.sh 9280 9300
 #
 # This fetches all the results between the first and second argument
 #
