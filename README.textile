@@ -8,11 +8,11 @@ After you clone the repository @CISCEResults2013@, navigate into @./ICSEResults1
 
 h3. Single School Data Retrieval
 
-Run the following: ```./getISCforSchool 9282```to get the ISC results for school ID 9282. Remember, ISC school IDs range from @9001@ to @9793@. Or you can use ```./getICSEforSchool 4674``` to get ICSE results for school ID 4674. ICSE school IDs range from @4001@ to @5568@.
+Run the following: ```./getISCforSchool 9280```to get the ISC results for school ID 9280. Remember, ISC school IDs range from @9001@ to @9793@. Or you can use ```./getICSEforSchool 4670``` to get ICSE results for school ID 4670. ICSE school IDs range from @4001@ to @5568@.
 
 h3. Range of Schools Data Retrieval
 
-Run the following: ```./getAllISC 9282 9300```to get the ISC results for all school IDs from 9282 to 9300. Remember, ISC school IDs range from @9001@ to @9793@. Or you can use ```./getAllICSE 4674 4700``` to get ICSE results for school IDs 4674 to 4700. ICSE school IDs range from @4001@ to @5568@.
+Run the following: ```./getAllISC 9280 9300```to get the ISC results for all school IDs from 9280 to 9300. Remember, ISC school IDs range from @9001@ to @9793@. Or you can use ```./getAllICSE 4670 4700``` to get ICSE results for school IDs 4670 to 4700. ICSE school IDs range from @4001@ to @5568@.
 
 h2. Pre-fetched Results By School
 
